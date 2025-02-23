@@ -1,5 +1,30 @@
 ## Hi there 👋
 
+I'm a computer engineering student passionate about Machine Learning and Data Science. Welcome to my GitHub profile!
+
+## About Me
+- 🔭 I’m currently working on various ML and data science projects.
+- 🌱 I’m currently learning advanced machine learning algorithms and deep learning techniques.
+- 👯 I’m looking to collaborate on open-source ML and data science projects.
+- 🤔 I’m looking for help with optimizing ML models and data preprocessing.
+- 💬 Ask me about anything related to ML, data science, and Python programming.
+- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
+- ⚡ Fun fact: I love exploring new datasets and finding hidden patterns in data.
+
+## Projects
+Here are some of my notable projects:
+- **Project 1**: A project description goes here.
+- **Project 2**: A project description goes here.
+- **Project 3**: A project description goes here.
+
+## Skills
+- Programming Languages: Python, SQL
+- ML Libraries: TensorFlow, Scikit-learn
+- Data Visualization: Matplotlib, Seaborn, Plotly
+- Tools: Jupyter, Git, Docker
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate!
+
 <!--
 **dorukku/dorukku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
