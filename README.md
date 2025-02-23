@@ -11,12 +11,6 @@ I'm a computer engineering student passionate about Machine Learning and Data Sc
 - 📫 How to reach me: [Your Email](mailto:youremail@example.com)
 - ⚡ Fun fact: I love exploring new datasets and finding hidden patterns in data.
 
-## Projects
-Here are some of my notable projects:
-- **Project 1**: A project description goes here.
-- **Project 2**: A project description goes here.
-- **Project 3**: A project description goes here.
-
 ## Skills
 - Programming Languages: Python, SQL
 - ML Libraries: TensorFlow, Scikit-learn
