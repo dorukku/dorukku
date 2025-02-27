@@ -8,7 +8,7 @@ I'm a computer engineering student passionate about Machine Learning and Data Sc
 - 👯 I’m looking to collaborate on open-source ML and data science projects.
 - 🤔 I’m looking for help with optimizing ML models and data preprocessing.
 - 💬 Ask me about anything related to ML, data science, and Python programming.
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
+- 📫 How to reach me: dua6108@gmail.com
 - ⚡ Fun fact: I love exploring new datasets and finding hidden patterns in data.
 
 ## Skills
